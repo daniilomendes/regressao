@@ -1,2 +1,4 @@
-# Pratica de Regressão linear
-Regressão Linear simples em Python
+# Pratica de Regressão 
+Regressão Linear simples em Python,
+Regressão Multipla,
+Regressão Logistica
